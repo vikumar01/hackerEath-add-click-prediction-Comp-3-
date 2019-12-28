@@ -1,4 +1,4 @@
-# hackerRank-add-click-prediction
+# hackerEarth-add-click-prediction
 Competition 3
 
 Link to dataset:
